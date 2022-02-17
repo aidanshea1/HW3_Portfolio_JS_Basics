@@ -1,0 +1,70 @@
+{
+	"about":[
+        {
+            "name":"Aidan Shea",
+            "title":"Computer Science Student at Boston College",
+            "photo":"https://cdn.glitch.global/cfdb2ab6-7af9-4bbb-a5c2-1f6198b49db5/profile_picture.JPG?v=1643838451097",
+            "email": "sheadx@bc.edu",
+            "address": "Mod 10A, Chestnut Hill, MA, 02467",
+            "biography": "Aidan Shea is a student at Boston College where he is working towards a B.S. in Computer Science and a minor in Philosophy. <br> He is especially interested in the fields of data science and data analytics. He hopes to get a job in one of these fields after <br> graduation. Aidan enjoys playing the violin in his free time."
+        }
+    ],
+	"news":[
+		{
+            "first_item": [
+                {
+                    "title1": "Enrolled in a Web Application Development course at Boston College",
+                    "date1": "Jan, 2022"
+                }
+            ],
+            "second_item": [
+                {
+                    "title2": "Started senior year at Boston College",
+                    "date2": "Aug, 2021"
+                }
+            ],
+            "third_item": [
+                {
+                    "title3": "Started freshman year at Boston College",
+			        "date3": "Aug, 2018"
+                }
+            ]
+		}
+	],
+	"projects":[
+		{
+            "first_project": [
+                {
+                    "type1": "school_project",
+                    "title1":"ASL Fingerspelling Detection and Translation using a Convolutional Neural Network - Uses Scikit-Learn, Keras, Tensor Flow, Numpy, Matplotlib",
+                    "description1": "This project's goal was to build a program to translate images of ASL fingerspelling into text using a CNN.",
+                    "path1": "asl_project.html"
+                }
+            ],
+            "second_project": [
+                {
+                    "type2": "school_project",
+                    "title2":"Analyzing Data Distribution and Computing the Number of Distinct Elements in a Data Set Consisting of Over One Million Data Points - Uses Spark, Scala, Google Cloud Platform",
+                    "description2": "This project's goal was to utilize Spark and GCP in order to find out information about a data set.",
+                    "path2": "data_distribution.html"
+                }
+            ],
+            "third_project": [
+                {
+                    "type3": "school_project",
+                    "title3":"Treble” iOS App - Uses Google Firebase, Google Storage, Google Authentication, Google Place Autocomplete, Mapkit",
+                    "description3": "This project is an iOS App that allows users to create a post for an event and allows others to see events",
+                    "path3": "treble.html"
+                }
+            ],
+            "fourth_project": [
+                {
+                    "type4": "personal_project",
+                    "title4":"GDP Per Capita Predictor - Uses Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn",
+                    "description4": "This project consisted of cleaning and analyzing a dataset detailing the countries of the world and attempting to predict the GDP Per Capita of the countries based on other features in the dataset.",
+                    "path4": "predicting_gdp.html"
+                }
+            ]
+		}
+	]
+}
